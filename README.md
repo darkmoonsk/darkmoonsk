@@ -15,4 +15,4 @@
   <img align="right" alt="Bruno-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/BuV2Bc5APL4AAAAM/star-wars-cgi-effects.gif">
 </div>
 
-![Snake animation](https://github.com/rafaballerini/darkmoonsk/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/darkmoonsk/darkmoonsk/blob/output/github-contribution-grid-snake.svg)
