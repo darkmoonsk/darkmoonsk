@@ -1,6 +1,6 @@
 ### Olá, eu sou Bruno Souza 😄
  - Atualmente trabalhando com: Front-end🎨
- - Estou atualmente estudando: Javascript e React
+ - Estou atualmente estudando: Javascript e React📖
 <div align="center">
   <a href="https://github.com/darkmoonsk">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=darkmoonsk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -14,5 +14,8 @@
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Bruno-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/BuV2Bc5APL4AAAAM/star-wars-cgi-effects.gif">
 </div>
+<div><br>
+   <a href="https://www.linkedin.com/in/brunosouzadkm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div> 
 
 ![Snake animation](https://github.com/darkmoonsk/darkmoonsk/blob/output/github-contribution-grid-snake.svg)
