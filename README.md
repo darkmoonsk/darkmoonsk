@@ -1,6 +1,6 @@
 ### Olá, eu sou Bruno Souza 😄
  - Atualmente trabalhando com: Front-end🎨
- - Estou atualmente estudando: Javascript e React📖
+ - Estou atualmente estudando: Javascript, Typescript, React e Node 📖
 <div align="center">
   <a href="https://github.com/darkmoonsk">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=darkmoonsk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
