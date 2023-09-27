@@ -1,13 +1,13 @@
 ### Olá, eu sou Bruno Souza 😄
  - Atualmente trabalhando com: Front-end🎨
  - Estou atualmente estudando: Javascript, Typescript, React e Node 📖
-<div align="center">
+<div align="center" style="display: flex;">
   <a href="https://github.com/darkmoonsk">
-  <div style="background: url('https://github.com/darkmoonsk/darkmoonsk/assets/101902194/8f87fab3-d1de-4084-8b69-1c67940e0249'); background-size: cover; height: 180px; width: 180px;">
-   <img style="opacity: 0; transition: opacity 1s;" onload="this.style.opacity='1'" src="https://github-readme-stats-darkmoonsk.vercel.app/api?username=darkmoonsk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" width="180"/>
+  <div style="background: url('https://github.com/darkmoonsk/darkmoonsk/assets/101902194/8f87fab3-d1de-4084-8b69-1c67940e0249'); background-size: cover; height: 180em; width: 180em;">
+   <img style="opacity: 0; transition: opacity 1s;" onload="this.style.opacity='1'" src="https://github-readme-stats-darkmoonsk.vercel.app/api?username=darkmoonsk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em" width="180em"/>
   </div>
-  <div style="background: url('https://github.com/darkmoonsk/darkmoonsk/assets/101902194/8f87fab3-d1de-4084-8b69-1c67940e0249'); background-size: cover; height: 180px; width: 180px;">
-   <img style="opacity: 0; transition: opacity 1s;" onload="this.style.opacity='1'" src="https://github-readme-stats-darkmoonsk.vercel.app/api/top-langs/?username=darkmoonsk&layout=compact&langs_count=7&theme=dracula" height="180" width="180"/>
+  <div style="background: url('https://github.com/darkmoonsk/darkmoonsk/assets/101902194/8f87fab3-d1de-4084-8b69-1c67940e0249'); background-size: cover; height: 180em; width: 180em;">
+   <img style="opacity: 0; transition: opacity 1s;" onload="this.style.opacity='1'" src="https://github-readme-stats-darkmoonsk.vercel.app/api/top-langs/?username=darkmoonsk&layout=compact&langs_count=7&theme=dracula" height="180em" width="180em"/>
   </div>
 </div>
 <div style="display: inline_block"><br>
