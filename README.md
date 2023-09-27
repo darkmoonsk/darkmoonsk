@@ -3,8 +3,12 @@
  - Estou atualmente estudando: Javascript, Typescript, React e Node 📖
 <div align="center">
   <a href="https://github.com/darkmoonsk">
-  <img height="180em" src="https://github-readme-stats-darkmoonsk.vercel.app/api?username=darkmoonsk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-darkmoonsk.vercel.app/api/top-langs/?username=darkmoonsk&layout=compact&langs_count=7&theme=dracula"/>
+  <div style="background: url('https://github.com/darkmoonsk/darkmoonsk/assets/101902194/8f87fab3-d1de-4084-8b69-1c67940e0249'); background-size: cover; height: 180px; width: 180px;">
+   <img style="opacity: 0; transition: opacity 1s;" onload="this.style.opacity='1'" src="https://github-readme-stats-darkmoonsk.vercel.app/api?username=darkmoonsk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" width="180"/>
+  </div>
+  <div style="background: url('https://github.com/darkmoonsk/darkmoonsk/assets/101902194/8f87fab3-d1de-4084-8b69-1c67940e0249'); background-size: cover; height: 180px; width: 180px;">
+   <img style="opacity: 0; transition: opacity 1s;" onload="this.style.opacity='1'" src="https://github-readme-stats-darkmoonsk.vercel.app/api/top-langs/?username=darkmoonsk&layout=compact&langs_count=7&theme=dracula" height="180" width="180"/>
+  </div>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
