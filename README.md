@@ -1,6 +1,15 @@
-### Olá, eu sou Bruno Souza 😄
- - Atualmente trabalhando com: Front-end🎨
- - Estou atualmente estudando: Javascript, Typescript, React e Node 📖
+# Olá, sou Bruno Souza👋
+## Software Engineer
+
+Bem-vindo ao meu perfil no GitHub! Sou um **Engenheiro de Software FullStack** apaixonado por resolver problemas complexos e criar experiências web envolventes. Atualmente, vivo no Brasil, trabalhando com um conjunto diversificado de tecnologias, incluindo **JavaScript, React, Node.js, TypeScript, HTML e CSS**. Estou em constante aprendizado e recentemente comecei a explorar **conceitos avançados de backend**.
+
+Minha jornada na programação é alimentada pela minha curiosidade e fascínio por **Ciência, Astronomia, Inteligência Artificial e Matemática**. Estou sempre buscando novas maneiras de integrar esses interesses ao meu trabalho em desenvolvimento web, visando criar soluções inovadoras e eficazes.
+
+Aqui no GitHub, você encontrará uma variedade de projetos que refletem minha experiência e paixão pelo desenvolvimento de software. Desde aplicações web dinâmicas até experimentos em IA, cada repositório é uma parte da minha jornada de aprendizado e crescimento profissional.
+
+Convido você a explorar meus projetos, dar feedback e, se sentir-se inspirado, contribuir. Vamos nos conectar e colaborar para criar algo incrível!
+![github-collage](https://github.com/darkmoonsk/disney-plus/assets/101902194/00181835-a457-4ac6-a635-bc2bda921200)
+---
 <div align="center">
   <a href="https://github.com/darkmoonsk">
   <img height="180em" src="https://github-readme-stats-darkmoonsk.vercel.app/api?username=darkmoonsk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
