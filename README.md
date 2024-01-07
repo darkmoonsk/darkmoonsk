@@ -8,7 +8,7 @@ Minha jornada na programação é alimentada pela minha curiosidade e fascínio 
 Aqui no GitHub, você encontrará uma variedade de projetos que refletem minha experiência e paixão pelo desenvolvimento de software. Desde aplicações web dinâmicas até experimentos em IA, cada repositório é uma parte da minha jornada de aprendizado e crescimento profissional.
 
 Convido você a explorar meus projetos, dar feedback e, se sentir-se inspirado, contribuir. Vamos nos conectar e colaborar para criar algo incrível!
-![github-collage](https://github.com/darkmoonsk/disney-plus/assets/101902194/00181835-a457-4ac6-a635-bc2bda921200)
+![bg-github](https://github.com/darkmoonsk/darkmoonsk/assets/101902194/7e2eaae3-b519-4b35-a52c-ff6e7f813d06)
 ---
 <div align="center">
   <a href="https://github.com/darkmoonsk">
