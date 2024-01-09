@@ -8,7 +8,9 @@ Minha jornada na programação é alimentada pela minha curiosidade e fascínio 
 Aqui no GitHub, você encontrará uma variedade de projetos que refletem minha experiência e paixão pelo desenvolvimento de software. Desde aplicações web dinâmicas até experimentos em IA, cada repositório é uma parte da minha jornada de aprendizado e crescimento profissional.
 
 Convido você a explorar meus projetos, dar feedback e, se sentir-se inspirado, contribuir. Vamos nos conectar e colaborar para criar algo incrível!
-![bg-github](https://github.com/darkmoonsk/darkmoonsk/assets/101902194/7e2eaae3-b519-4b35-a52c-ff6e7f813d06)
+
+![background github](https://github.com/darkmoonsk/darkmoonsk/assets/101902194/16450ec9-0fc0-46da-a7d3-2ca9002d5845)
+
 ---
 <div align="center">
   <a href="https://github.com/darkmoonsk">
