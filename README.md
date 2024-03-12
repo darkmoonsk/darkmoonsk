@@ -9,8 +9,6 @@ Aqui no GitHub, você encontrará uma variedade de projetos que refletem minha e
 
 Convido você a explorar meus projetos, dar feedback e, se sentir-se inspirado, contribuir. Vamos nos conectar e colaborar para criar algo incrível!
 
-![background github](https://github.com/darkmoonsk/darkmoonsk/assets/101902194/16450ec9-0fc0-46da-a7d3-2ca9002d5845)
-
 ---
 <div align="center">
   <a href="https://github.com/darkmoonsk">
