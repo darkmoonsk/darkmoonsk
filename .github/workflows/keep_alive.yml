@@ -1,0 +1,14 @@
+name: Keep Component Alive
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+
+jobs:
+  keep_alive:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Fetch URL
+      run: |
+        curl -s https://github-readme-stats-darkmoonsk.vercel.app/api?username=darkmoonsk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true
