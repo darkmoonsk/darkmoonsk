@@ -12,3 +12,4 @@ jobs:
     - name: Fetch URL
       run: |
         curl -s https://github-readme-stats-darkmoonsk.vercel.app/api?username=darkmoonsk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true
+        curl -s https://github-readme-stats-darkmoonsk.vercel.app/api/top-langs/?username=darkmoonsk&layout=compact&langs_count=7&theme=dracula
