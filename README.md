@@ -1,12 +1,14 @@
-Hi, I'm Bruno Souza👋
-Software Engineer
-Welcome to my GitHub profile! I'm a Full-Stack Software Engineer passionate about solving complex problems and creating engaging web experiences. Currently based in Brazil, I work with a diverse set of technologies, including JavaScript, React, Next.js, Node.js, TypeScript, Python, HTML, and CSS. I'm always learning and have recently started exploring advanced backend concepts.
+# Hi, I'm Bruno Souza👋  
+## Software Engineer
 
-My journey in programming is driven by curiosity and a deep interest in Science, Astronomy, Artificial Intelligence, and Mathematics. I'm constantly looking for new ways to integrate these passions into my work in web development, aiming to build innovative and effective solutions.
+Welcome to my GitHub profile! I'm a **Full-Stack Software Engineer** passionate about solving complex problems and creating engaging web experiences. Currently based in Brazil, I work with a diverse set of technologies, including **JavaScript, React, Next.js, Node.js, TypeScript, Python, HTML, and CSS**. I'm always learning and have recently started exploring **advanced backend concepts**.
+
+My journey in programming is driven by curiosity and a deep interest in **Science, Astronomy, Artificial Intelligence, and Mathematics**. I'm constantly looking for new ways to integrate these passions into my work in web development, aiming to build innovative and effective solutions.
 
 Here on GitHub, you'll find a variety of projects that showcase my experience and enthusiasm for software development. From dynamic web applications to AI experiments, each repository represents a step in my learning journey and professional growth.
 
 Feel free to explore my projects, share your feedback, and if you feel inspired, contribute. Let’s connect and collaborate to create something amazing!
+
 
 ---
 <div align="center">
