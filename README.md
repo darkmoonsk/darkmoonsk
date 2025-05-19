@@ -1,13 +1,12 @@
-# Olá, sou Bruno Souza👋
-## Software Engineer
+Hi, I'm Bruno Souza👋
+Software Engineer
+Welcome to my GitHub profile! I'm a Full-Stack Software Engineer passionate about solving complex problems and creating engaging web experiences. Currently based in Brazil, I work with a diverse set of technologies, including JavaScript, React, Next.js, Node.js, TypeScript, Python, HTML, and CSS. I'm always learning and have recently started exploring advanced backend concepts.
 
-Bem-vindo ao meu perfil no GitHub! Sou um **Engenheiro de Software FullStack** apaixonado por resolver problemas complexos e criar experiências web envolventes. Atualmente, vivo no Brasil, trabalhando com um conjunto diversificado de tecnologias, incluindo **JavaScript, React, Next.js, Node.js, TypeScript, Python, HTML e CSS**. Estou em constante aprendizado e recentemente comecei a explorar **conceitos avançados de backend**.
+My journey in programming is driven by curiosity and a deep interest in Science, Astronomy, Artificial Intelligence, and Mathematics. I'm constantly looking for new ways to integrate these passions into my work in web development, aiming to build innovative and effective solutions.
 
-Minha jornada na programação é alimentada pela minha curiosidade e fascínio por **Ciência, Astronomia, Inteligência Artificial e Matemática**. Estou sempre buscando novas maneiras de integrar esses interesses ao meu trabalho em desenvolvimento web, visando criar soluções inovadoras e eficazes.
+Here on GitHub, you'll find a variety of projects that showcase my experience and enthusiasm for software development. From dynamic web applications to AI experiments, each repository represents a step in my learning journey and professional growth.
 
-Aqui no GitHub, você encontrará uma variedade de projetos que refletem minha experiência e paixão pelo desenvolvimento de software. Desde aplicações web dinâmicas até experimentos em IA, cada repositório é uma parte da minha jornada de aprendizado e crescimento profissional.
-
-Convido você a explorar meus projetos, dar feedback e, se sentir-se inspirado, contribuir. Vamos nos conectar e colaborar para criar algo incrível!
+Feel free to explore my projects, share your feedback, and if you feel inspired, contribute. Let’s connect and collaborate to create something amazing!
 
 ---
 <div align="center">
